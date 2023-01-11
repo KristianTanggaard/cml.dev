@@ -142,7 +142,7 @@
     "gatsby-remark-responsive-iframe": "^2.3.1",
     "gatsby-remark-smartypants": "^2.2.1",
     "gatsby-source-filesystem": "^2.2.2",
-    "gatsby-transformer-remark": "^2.7.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "hast-util-select": "^4.0.0",
     "husky": "^4.2.3",
     "jest": "^26.0.1",
